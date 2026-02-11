@@ -135,7 +135,7 @@ let lastFetchTime: number | null = null;
 const CACHE_DURATION = 24 * 60 * 60 * 1000; // 24 hours
 
 // Default buoy to display on initial load
-export const DEFAULT_BUOY_ID = "13001";
+export const DEFAULT_BUOY_ID = "44020";
 
 // Complete verified active buoys list based on actual NOAA directory listing
 // These buoys have confirmed .txt data files available in the NOAA realtime2 directory
